@@ -3,6 +3,6 @@
 Compilar:
 
 ```
-javac Price.java ChildrensPrice.java NewReleasePrice.java RegularPrice.java Movie.java Rental.java Customer.java
+javac *.java
 
 ```
